@@ -2,7 +2,9 @@
 
 
 ## Business Problem Statement.
+Many organizations currently run their critical business applications on RedHat OpenShift. However, due to challenges like vendor lock-in, high operational costs, and complexity, they are increasingly migrating to cloud-native platforms such as AWS EKS as part of their cloud adoption and modernization journey.
 During the cloud adoption and modernization process, numerous customers are transitioning their on-premises containerized applications from OpenShift to AWS Elastic Kubernetes Service (EKS). This migration frequently necessitates the manual conversion of OpenShift deployment files into Helm charts compatible with EKS, a process that can be time-consuming and susceptible to errors. Ensuring a seamless transition without modifying the applications demands significant manual effort, often involving meticulous attention to detail to guarantee that applications are onboarded correctly without any unintended alterations.
+By leveraging automation strategies, businesses can ensure a seamless transition, maintaining application integrity, reducing errors, and accelerating cloud adoption while achieving improved scalability and operational efficiency
 
 ## Discovery Phase.
    - During the discovery phase, we have identified that more than ~500 applications need to be migrated to EKS-compatible Helm Charts while preserving the original behavior of the applications.
