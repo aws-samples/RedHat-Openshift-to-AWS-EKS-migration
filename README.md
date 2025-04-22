@@ -59,7 +59,7 @@ Optionally, organizations can create their own Continuous Deployment (CD) platfo
       - Navigate to the directory where you want to clone the repository.
       - Run the below command to clone the repository into local system: 
 
-      `git clone git@ssh.gitlab.aws.dev:pratapkn/openshift-migration.git.`
+      `git clone https://github.com/aws-samples/RedHat-Openshift-to-AWS-EKS-migration.git
 
    2. Run migration script
       - Open your terminal or command prompt.
