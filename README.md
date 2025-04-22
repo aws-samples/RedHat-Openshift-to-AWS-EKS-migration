@@ -43,12 +43,13 @@ Optionally, organizations can create their own Continuous Deployment (CD) platfo
    ### Prerequisites
    To follow along with this post, ensure you have the following:
    1.	Python 3 or later installed in your CI system
-   2.	Git 2 or later installed in your CI system
-   3.	A template repository and a destination source code repository should be created before running migration script
-   4.	All Helm chart template files copied into the template repository
-   5.	Your EKS cluster configured with Argo CD for continuous deployment.(Optional)
-   6.	Configured Git credentials for manual execution of migration process
-   7.	Configured CI/CD tools (Optional)
+   2.	Required Python Packages (pyyaml)
+   3.	Git 2 or later installed in your CI system
+   4.	A template repository and a destination source code repository should be created before running migration script
+   5.	All Helm chart template files copied into the template repository
+   6.	Your EKS cluster configured with Argo CD for continuous deployment.(Optional)
+   7.	Configured Git credentials for manual execution of migration process
+   8.	Configured CI/CD tools (Optional)
    
 
    ### Deployment Configuration
