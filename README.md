@@ -1,4 +1,4 @@
-# RedHat Openshift to Amazon EKS migration: Automation Strategies for Smooth Transition
+# Red Hat Openshift to Amazon EKS migration: Automation Strategies for Smooth Transition
 
 
 ## Business Problem Statement.
