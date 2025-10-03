@@ -129,3 +129,10 @@ Optionally, organizations can create their own Continuous Deployment (CD) platfo
    - **Cost Efficiency**: The automated migration strategy significantly reduced development costs, optimizing resource utilization and delivering substantial cost savings.
    - **Enhanced Integration and Security**: Leveraged native integration with AWS services, improving overall system performance, enhancing security posture, and fostering operational efficiency.
    - **Continuous Deployment Enablement**: Facilitated automated and continuous deployment using cutting-edge tools like ArgoCD, enabling rapid iteration, faster time-to-market, and increased agility.
+
+ ## Author
+
+Pradip Pandey 
+
+Lead Consultant - Amazon Web Services
+
